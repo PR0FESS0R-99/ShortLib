@@ -24,7 +24,7 @@ setuptools.setup(
     license='GNU General Public License v3.0',
     description='python short cut',                           
     package_data={
-      "Telethroid": ["py.typed"],
+      "pyshot": ["py.typed"],
     },
     url="https://github.com/PR0FESS0R-99/PyShot",
     packages=setuptools.find_packages(),
