@@ -17,7 +17,7 @@ with open("README.md", encoding="utf-8") as f:
     readme = f.read()
   
 setuptools.setup(
-    name="PyShot",
+    name="PyShots",
     version=version,
     author="Pr0fess0r-99",
     long_description=readme,
