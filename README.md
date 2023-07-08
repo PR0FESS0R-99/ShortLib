@@ -1,4 +1,4 @@
-### PyShot 🐉
+### ShortLib 🐉
 Easy Python Tool
 
 ### Installing
