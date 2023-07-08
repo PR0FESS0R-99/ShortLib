@@ -2,4 +2,4 @@
 Easy Python Tool
 
 ### Installing
-```pip install pyshot```
+```pip install shortlib```
